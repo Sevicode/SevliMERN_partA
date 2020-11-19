@@ -1,7 +1,7 @@
 # MERN Project
 ## By junior Developers:
-[Alison Killen](https://github.com/alikillen)
-[Sevda Amini](https://github.com/Sevicode)
+#### [Alison Killen](https://github.com/alikillen)
+#### [Sevda Amini](https://github.com/Sevicode)
 
 ## Purpose
 ## Functionality and Features
