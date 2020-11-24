@@ -1,5 +1,5 @@
 # MERN Project
-## By junior Developers:
+## By Junior Developers:
 #### [Alison Killen](https://github.com/alikillen)
 #### [Sevda Amini](https://github.com/Sevicode)
 
