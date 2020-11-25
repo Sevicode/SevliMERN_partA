@@ -4,7 +4,7 @@
 #### [Sevda Amini](https://github.com/Sevicode)
 
 ## Project Description
-This project is a MERN full-stack web application which we developed as a part of our Coder Academy Bootcamp assignments. In this project we worked in a team of two junior developers and developed an e-commerce store where users (custpmers) can sign in, buy and rate products. The seller is also admin and has full authorization to manage the website and make changes in the listings. 
+This project is a MERN full-stack web application which we developed as a part of our final Coder Academy Bootcamp assignments. In this project we worked in a team of two junior developers and developed an e-commerce store where users (custpmers) cangn in, buy and rate products. The seller is also admin and has full authorization to manage the website and make changes in the listings. 
 
 ## Purpose
 *She Rydes* is a real world project and the client aims to bring a convenient and affordable place for people and specifically female customers to purchase their motorcycle riding appearal. 
