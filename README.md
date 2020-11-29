@@ -32,15 +32,31 @@ The “cafe racer” bike (pictured below) will be the typical bike style for th
 
 The website will be built with the MERN stack with additional ecommerce functionality. We will build the website from scratch, enabling full customizability. We will use MongoDB as our database for its scalability and flexibility. We will use express and node to enable our backend routing. React will be used to enable our fast and responsive front-end design, and to connect our frontend CRUD routes to our backend CRUD routes. We will implement ecommerce features to enable secure payment on the website.
 
+* React.js
+* Express.js
+* Node.js
+* Mongo.Db
+* Heroku
+* Stripe
+* Google Map API
+
+
 ## Sitemap
 ## Dataflow Diagram
 ![](/Diagrams/DFD-Page-1.png)
 
+
 ![](/Diagrams/DFD-Page-2.png)
+
 
 ![](/Diagrams/DFD-Page-3.png)
 
+
+![](/Diagrams/DFD-Page-4.png)
+
+
 ![](/Diagrams/DFD-Page-5.png)
+
 ## Application Architecture Diagram
 ![](/Diagrams/AAD.png)
 ## User Stories
