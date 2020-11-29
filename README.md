@@ -1,5 +1,5 @@
 # MERN Project
-## By junior Developers:
+## By Junior Developers:
 #### [Alison Killen](https://github.com/alikillen)
 #### [Sevda Amini](https://github.com/Sevicode)
 
@@ -34,7 +34,15 @@ The website will be built with the MERN stack with additional ecommerce function
 
 ## Sitemap
 ## Dataflow Diagram
+![](/Diagrams/DFD-Page-1.png)
+
+![](/Diagrams/DFD-Page-2.png)
+
+![](/Diagrams/DFD-Page-3.png)
+
+![](/Diagrams/DFD-Page-5.png)
 ## Application Architecture Diagram
+![](/Diagrams/AAD.png)
 ## User Stories
 
 - As a user, I can easily navigate all pages of the website on my phone, tablet or PC
