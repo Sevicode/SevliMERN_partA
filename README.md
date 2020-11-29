@@ -22,8 +22,15 @@ Our team have tried their best to integrate the client's requested features in t
 ## Target Audiance
 ## Tech Stack
 ## Dataflow Diagram
-![](/Diagrams/AAD.png)
+![](/Diagrams/DFD-Page-1.png)
+
+![](/Diagrams/DFD-Page-2.png)
+
+![](/Diagrams/DFD-Page-3.png)
+
+![](/Diagrams/DFD-Page-5.png)
 ## Application Architecture Diagram
+![](/Diagrams/AAD.png)
 ## User Stories
 ## Wireframes
 ### Mobile Wireframes
