@@ -5,6 +5,24 @@
 #### [Alison Killen](https://github.com/alikillen)
 #### [Sevda Amini](https://github.com/Sevicode)
 
+### Table of Content
+[Project Description](#Project-Description)
+[Purpose](#Purpose)
+[Functionality and Features](#Functionality-and-Features)
+[Target Audience](#Target-Audience)
+[Tech Stack](#Tech-Stack)
+[Sitemap](#Sitemap)
+[Dataflow Diagram](#Dataflow-Diagram)
+[Application Architecture Diagram](#Application-Architecture-Diagram)
+[User Stories](#User-Stories)
+[Wireframes](#Wireframes)
+* [Mobile Wireframes](#Mobile-Wireframes)
+* [Desktop Wireframes](#Desktop-Wireframes)
+
+[Project Management](#Project-Management)
+* [Trello](#Trello)
+
+
 ## Project Description
 This project is a MERN full-stack web application which we developed as a part of our final Coder Academy Bootcamp assignment. Throughout this project we worked as a team of two junior developers and developed an e-commerce store where users (customers) can sign in, browse and view products, and learn about the brand She Rydes. The seller (client) is also an admin on the site and has full authorization to manage the website and make changes in the listings. 
 
