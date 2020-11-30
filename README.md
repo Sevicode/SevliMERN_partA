@@ -7,15 +7,25 @@
 
 ### Table of Content
 [Project Description](#Project-Description)
+
 [Purpose](#Purpose)
+
 [Functionality and Features](#Functionality-and-Features)
+
 [Target Audience](#Target-Audience)
+
 [Tech Stack](#Tech-Stack)
+
 [Sitemap](#Sitemap)
+
 [Dataflow Diagram](#Dataflow-Diagram)
+
 [Application Architecture Diagram](#Application-Architecture-Diagram)
+
 [User Stories](#User-Stories)
+
 [Wireframes](#Wireframes)
+
 * [Mobile Wireframes](#Mobile-Wireframes)
 * [Desktop Wireframes](#Desktop-Wireframes)
 
