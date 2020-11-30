@@ -43,6 +43,10 @@ The website will be built with the MERN stack with additional ecommerce function
 * Draw.io
 * Trello
 * Discord
+* Amazon Web Services (AWS)
+* Bootstrap
+* Nodmon
+
 
 
 ## Sitemap
