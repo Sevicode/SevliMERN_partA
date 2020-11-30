@@ -162,3 +162,4 @@ We followed the Agile methodology of working to deliver the maximum work in the 
 
 ### Trello 
 ![](/Trello/2020-11-24.png)
+![](/Trello/2020-11-30.png)
