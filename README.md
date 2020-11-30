@@ -1,7 +1,37 @@
-# MERN Project
+# She Rydes 
+## An e-commerce, MERN project.
+![](/Docs/caferacer2.jpg)
 ## By Junior Developers:
 #### [Alison Killen](https://github.com/alikillen)
 #### [Sevda Amini](https://github.com/Sevicode)
+
+### Table of Content
+[Project Description](#Project-Description)
+
+[Purpose](#Purpose)
+
+[Functionality and Features](#Functionality-and-Features)
+
+[Target Audience](#Target-Audience)
+
+[Tech Stack](#Tech-Stack)
+
+[Sitemap](#Sitemap)
+
+[Dataflow Diagram](#Dataflow-Diagram)
+
+[Application Architecture Diagram](#Application-Architecture-Diagram)
+
+[User Stories](#User-Stories)
+
+[Wireframes](#Wireframes)
+
+* [Mobile Wireframes](#Mobile-Wireframes)
+* [Desktop Wireframes](#Desktop-Wireframes)
+
+[Project Management](#Project-Management)
+* [Trello](#Trello)
+
 
 ## Project Description
 This project is a MERN full-stack web application which we developed as a part of our final Coder Academy Bootcamp assignment. Throughout this project we worked as a team of two junior developers and developed an e-commerce store where users (customers) can sign in, browse and view products, and learn about the brand She Rydes. The seller (client) is also an admin on the site and has full authorization to manage the website and make changes in the listings. 
@@ -26,7 +56,7 @@ The target audience is female motorcycle riders between 23 and 39 years of age. 
 
 The “cafe racer” bike (pictured below) will be the typical bike style for the apparel - the client does not want to reflect sports or off road bikes in her branding - she states “She Rydes will have a subtle city meets sea vision, being bred on the Gold Coast and with a lot of coastal Australian riders, the brand will deter away from the ‘rough bikie in the dessert’ image and more towards a relaxed surf lifestyle. There are enough skulls, tassels & vests around. It’s time to associate an emerging market with sophistication and practicality.” This sophistication and practicality is to be reflected in the website’s design and the apparel the client is designing and selling.
 
-![](/Docs/caferacer2.jpg)
+
 
 ## Tech Stack
 
@@ -45,7 +75,8 @@ The website will be built with the MERN stack with additional ecommerce function
 * Discord
 * Amazon Web Services (AWS)
 * Bootstrap
-* Nodmon
+* Nodemon
+* Figma
 
 
 
