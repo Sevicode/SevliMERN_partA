@@ -54,7 +54,7 @@ Our team have tried their best to integrate the client's requested features in t
 
 The target audience is female motorcycle riders between 23 and 39 years of age. The client also wants to predominantly target Australian riders, especially as she is in the initial phases of establishing and growing her business. The potential customers will be “urban dwellers who enjoy adventuring”, as specified by the client.
 
-The “cafe racer” bike (pictured below) will be the typical bike style for the apparel - the client does not want to reflect sports or off road bikes in her branding - she states “She Rydes will have a subtle city meets sea vision, being bred on the Gold Coast and with a lot of coastal Australian riders, the brand will deter away from the ‘rough bikie in the dessert’ image and more towards a relaxed surf lifestyle. There are enough skulls, tassels & vests around. It’s time to associate an emerging market with sophistication and practicality.” This sophistication and practicality is to be reflected in the website’s design and the apparel the client is designing and selling.
+The “cafe racer” bike (pictured above) will be the typical bike style for the apparel - the client does not want to reflect sports or off road bikes in her branding - she states “She Rydes will have a subtle city meets sea vision, being bred on the Gold Coast and with a lot of coastal Australian riders, the brand will deter away from the ‘rough bikie in the dessert’ image and more towards a relaxed surf lifestyle. There are enough skulls, tassels & vests around. It’s time to associate an emerging market with sophistication and practicality.” This sophistication and practicality is to be reflected in the website’s design and the apparel the client is designing and selling.
 
 
 
@@ -63,6 +63,7 @@ The “cafe racer” bike (pictured below) will be the typical bike style for th
 The website will be built with the MERN stack with additional ecommerce functionality. We will build the website from scratch, enabling full customizability. We will use MongoDB as our database for its scalability and flexibility. We will use express and node to enable our backend routing. React will be used to enable our fast and responsive front-end design, and to connect our frontend CRUD routes to our backend CRUD routes. We will implement ecommerce features to enable secure payment on the website.
 
 **Planning/Design Tools:**
+
 Figma
 Balsamiq
 Draw.io
@@ -70,6 +71,7 @@ Trello
 Discord
 
 **Frontend:**
+
 HTML5
 CSS3
 ReactJS
@@ -79,26 +81,31 @@ Bootstrap
 Axios
 
 **Backend:**
+
 NodeJS
 ExpressJS
 Stripe
 AWS S3
 
 **Node Dependencies**
+
 Nodemon
 React-bootstrap
 Express
 Cors
 
 **Database:**
+
 MongoDB
 Mongoose
 
 **Testing:**
+
 Jest
 Cypress
 
 **Deployment:**
+
 Heroku
 Zuber
 
