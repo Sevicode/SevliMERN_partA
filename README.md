@@ -113,7 +113,7 @@ The website will be built with the MERN stack with additional ecommerce function
 - Google Maps API
 ## Sitemap
 
-![](/docs/sitemap.jpg)
+![](/Docs/sitemap.jpg)
 ## Dataflow Diagram
 ![](/Diagrams/DFD-Page-1.png)
 
