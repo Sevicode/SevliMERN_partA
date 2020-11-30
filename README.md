@@ -64,53 +64,53 @@ The website will be built with the MERN stack with additional ecommerce function
 
 **Planning/Design Tools:**
 
-Figma
-Balsamiq
-Draw.io
-Trello
-Discord
+- Figma
+- Balsamiq
+- Draw.io
+- Trello
+- Discord
 
 **Frontend:**
 
-HTML5
-CSS3
-ReactJS
-Javascript
-JSX
-Bootstrap
-Axios
+- HTML5
+- CSS3
+- ReactJS
+- Javascript
+- JSX
+- Bootstrap
+- Axios
 
 **Backend:**
 
-NodeJS
-ExpressJS
-Stripe
-AWS S3
+- NodeJS
+- ExpressJS
+- Stripe
+- AWS S3
 
 **Node Dependencies**
 
-Nodemon
-React-bootstrap
-Express
-Cors
+- Nodemon
+- React-bootstrap
+- Express
+- Cors
 
 **Database:**
 
-MongoDB
-Mongoose
+- MongoDB
+- Mongoose
 
 **Testing:**
 
-Jest
-Cypress
+- Jest
+- Cypress
 
 **Deployment:**
 
-Heroku
-Zuber
+- Heroku
+- Zuber
 
 **API's:**
-Google Maps API
+- Google Maps API
 ## Sitemap
 
 ![](/docs/sitemap.jpg)
