@@ -46,6 +46,7 @@ The website will be built with the MERN stack with additional ecommerce function
 * Amazon Web Services (AWS)
 * Bootstrap
 * Nodmon
+* Figma
 
 
 
