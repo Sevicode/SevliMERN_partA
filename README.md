@@ -121,22 +121,22 @@ The website will be built with the MERN stack with additional ecommerce function
 
 ![](/Docs/sitemap.jpg)
 ## Dataflow Diagram
-![](/Diagrams/DFD-Page-1.png)
+![](/Docs/DFD-Page-1.png)
 
 
-![](/Diagrams/DFD-Page-2.png)
+![](/Docs/DFD-Page-2.png)
 
 
-![](/Diagrams/DFD-Page-3.png)
+![](/Docs/DFD-Page-3.png)
 
 
-![](/Diagrams/DFD-Page-4.png)
+![](/Docs/DFD-Page-4.png)
 
 
-![](/Diagrams/DFD-Page-5.png)
+![](/Docs/DFD-Page-5.png)
 
 ## Application Architecture Diagram
-![](/Diagrams/AAD.png)
+![](/Docs/AAD.png)
 ## User Stories
 
 - As a user, I can easily navigate all pages of the website on my phone, tablet or PC
@@ -163,24 +163,24 @@ The website will be built with the MERN stack with additional ecommerce function
 ## Wireframes
 ### Mobile Wireframes
 
-![](/Docs/wireframe-image/"Mobile Home.png")
+![](/Docs/wireframes/Mobile_Home.png)
 
 
 ### Desktop Wireframes
 
-![](/Docs/wireframe-images/"Desktop Home.png")
+![](/Docs/wireframes/Desktop_Home.png)
 
 
 ### Tablet Wireframes
-![](/Docs/wireframe-images/"Tablet Home.png")
+![](/Docs/wireframes/Tablet_Home.png)
 
 ## Project Management
 We followed the Agile methodology of working to deliver the maximum work in the time allowed. We broke the requirements into smaller tasks and prioritised them based on their importance, and each team member was assigned with a list of tasks and a timeframe. We used Trello for this purpose and used Discord for the online communications. We also created a shared folder on Google Drive to allow for quick amalgamation of documents from the client. The following are screenshots of our Trello board showing how our tasks have been changed and updated during our work on this project.
 
 ### Trello 
 
-![](/Trello/2020-11-24.png)
-![](/Trello/2020-11-30.png)
-![](/Trello/2020-12-01.png)
+![](/Docs/2020-11-24.png)
+![](/Docs/2020-11-30.png)
+![](/Docs/2020-12-01.png)
 
 ## Presentation
