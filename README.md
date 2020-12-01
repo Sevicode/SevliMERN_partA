@@ -47,14 +47,14 @@ Our team have tried their best to integrate the client's requested features in t
 * Search functionality: users can search for a specific product.
 * Product Rating : customers can leave reviews for the products they have purchased and rate them. A star rating system is designed so the customers can rate the purchased pproducts between 1-5 star. 
 * User Authentication : Users need to be signed in either as a customer or admin/seller. This will be checked with authentication functionality already added to the application, including Front and Back-end use authentication and frontend profile. 
-* Shopping card: customers can add products to their shopping cart. 
+* Shopping cart: customers can add products to their shopping cart. 
 * Payment systems - VISA, Mastercard and PayPal supported with vision to later include ZipPay
 
 ## Target Audience
 
 The target audience is female motorcycle riders between 23 and 39 years of age. The client also wants to predominantly target Australian riders, especially as she is in the initial phases of establishing and growing her business. The potential customers will be “urban dwellers who enjoy adventuring”, as specified by the client.
 
-The “cafe racer” bike (pictured below) will be the typical bike style for the apparel - the client does not want to reflect sports or off road bikes in her branding - she states “She Rydes will have a subtle city meets sea vision, being bred on the Gold Coast and with a lot of coastal Australian riders, the brand will deter away from the ‘rough bikie in the dessert’ image and more towards a relaxed surf lifestyle. There are enough skulls, tassels & vests around. It’s time to associate an emerging market with sophistication and practicality.” This sophistication and practicality is to be reflected in the website’s design and the apparel the client is designing and selling.
+The “cafe racer” bike (pictured above) will be the typical bike style for the apparel - the client does not want to reflect sports or off road bikes in her branding - she states “She Rydes will have a subtle city meets sea vision, being bred on the Gold Coast and with a lot of coastal Australian riders, the brand will deter away from the ‘rough bikie in the dessert’ image and more towards a relaxed surf lifestyle. There are enough skulls, tassels & vests around. It’s time to associate an emerging market with sophistication and practicality.” This sophistication and practicality is to be reflected in the website’s design and the apparel the client is designing and selling.
 
 
 
@@ -65,8 +65,7 @@ The website will be built with the MERN stack with additional ecommerce function
 * React.js
 * Express.js
 * Node.js
-* Mongo.Db
-* Heroku
+* MongoDb
 * Stripe
 * Google Map API
 * Balsamiq Wireframes
