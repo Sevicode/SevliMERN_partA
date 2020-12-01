@@ -163,16 +163,32 @@ The website will be built with the MERN stack with additional ecommerce function
 ## Wireframes
 ### Mobile Wireframes
 
-![](./Docs/wireframes/Mobile_Home.png)
+![](/Docs/wireframes/Mobile_Home.png)
+![](/Docs/wireframes/Mobile_contact.png)
+![](/Docs/wireframes/Mobile_individual.png)
+![](/Docs/wireframes/Mobile_Products.png)
 
 
 ### Desktop Wireframes
 
-![](./Docs/wireframes/Desktop_Home.png)
+![](/Docs/wireframes/Desktop_Home.png)
+![](/Docs/wireframes/Desktop_Login.png)
+![](/Docs/wireframes/Desktop_AboutUs.png)
+![](/Docs/wireframes/Desktop_ContactUs.png)
+![](/Docs/wireframes/Desktop_ShoptheLook.png)
+![](/Docs/wireframes/Desktop_Products.png)
+![](/Docs/wireframes/Desktop_individual_product.png)
+![](/Docs/wireframes/Desktop_Cart.png)
+![](/Docs/wireframes/Desktop_AccountSettings.png)
+![](/Docs/wireframes/Desktop_Shipping.png)
 
 
 ### Tablet Wireframes
-![](./Docs/wireframes/Tablet_Home.png)
+![](/Docs/wireframes/Tablet_Home.png)
+![](/Docs/wireframes/Tablet_Login.png)
+![](/Docs/wireframes/Tablet_Cart.png)
+![](/Docs/wireframes/Tablet_Product_Range.png)
+![](/Docs/wireframes/Tablet_individual.png)
 
 ## Project Management
 We followed the Agile methodology of working to deliver the maximum work in the time allowed. We broke the requirements into smaller tasks and prioritised them based on their importance, and each team member was assigned with a list of tasks and a timeframe. We used Trello for this purpose and used Discord for the online communications. We also created a shared folder on Google Drive to allow for quick amalgamation of documents from the client. The following are screenshots of our Trello board showing how our tasks have been changed and updated during our work on this project.
