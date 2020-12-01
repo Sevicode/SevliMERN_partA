@@ -5,6 +5,12 @@
 #### [Alison Killen](https://github.com/alikillen)
 #### [Sevda Amini](https://github.com/Sevicode)
 
+
+### Link to Repositories:
+Documentation: https://github.com/Sevicode/SevliMERN_partA/tree/master
+
+Project:
+
 ### Table of Content
 [Project Description](#Project-Description)
 
