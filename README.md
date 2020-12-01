@@ -198,3 +198,4 @@ We followed the Agile methodology of working to deliver the maximum work in the 
 ![](/Docs/2020-12-01.png)
 
 ## Presentation
+Please find the presentation slides in "doc" folder.
