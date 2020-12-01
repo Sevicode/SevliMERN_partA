@@ -1,9 +1,15 @@
 # She Rydes 
-## An e-commerce, MERN project.
+## A fullstack MERN e-Commerce website.
 ![](/Docs/caferacer2.jpg)
 ## By Junior Developers:
 #### [Alison Killen](https://github.com/alikillen)
 #### [Sevda Amini](https://github.com/Sevicode)
+
+
+### Link to Repositories:
+Documentation: https://github.com/Sevicode/SevliMERN_partA/tree/master
+
+Project:
 
 ### Table of Content
 [Project Description](#Project-Description)
@@ -62,41 +68,73 @@ The “cafe racer” bike (pictured above) will be the typical bike style for th
 
 The website will be built with the MERN stack with additional ecommerce functionality. We will build the website from scratch, enabling full customizability. We will use MongoDB as our database for its scalability and flexibility. We will use express and node to enable our backend routing. React will be used to enable our fast and responsive front-end design, and to connect our frontend CRUD routes to our backend CRUD routes. We will implement ecommerce features to enable secure payment on the website.
 
-* React.js
-* Express.js
-* Node.js
-* MongoDb
-* Stripe
-* Google Map API
-* Balsamiq Wireframes
-* Draw.io
-* Trello
-* Discord
-* Amazon Web Services (AWS)
-* Bootstrap
-* Nodemon
-* Figma
+**Planning/Design Tools:**
 
+- Figma
+- Balsamiq
+- Draw.io
+- Trello
+- Discord
 
+**Frontend:**
 
+- HTML5
+- CSS3
+- ReactJS
+- Javascript
+- JSX
+- Bootstrap
+- Axios
+
+**Backend:**
+
+- NodeJS
+- ExpressJS
+- Stripe
+- AWS S3
+
+**Node Dependencies**
+
+- Nodemon
+- React-bootstrap
+- Express
+- Cors
+
+**Database:**
+
+- MongoDB
+- Mongoose
+
+**Testing:**
+
+- Jest
+- Cypress
+
+**Deployment:**
+- C-panel (Deploying on Zuver)
+
+**API's:**
+- Google Maps API
 ## Sitemap
+
+![](/Docs/sitemap.jpg)
 ## Dataflow Diagram
-![](/Diagrams/DFD-Page-1.png)
+![](/Docs/DFD-Page-1.png)
 
 
-![](/Diagrams/DFD-Page-2.png)
+![](/Docs/DFD-Page-2.png)
 
 
-![](/Diagrams/DFD-Page-3.png)
+![](/Docs/DFD-Page-3.png)
 
 
-![](/Diagrams/DFD-Page-4.png)
+![](/Docs/DFD-Page-4.png)
 
 
-![](/Diagrams/DFD-Page-5.png)
+![](/Docs/DFD-Page-5.png)
 
 ## Application Architecture Diagram
-![](/Diagrams/AAD.png)
+![](/Docs/AAD.png)
 ## User Stories
 
 - As a user, I can easily navigate all pages of the website on my phone, tablet or PC
@@ -122,12 +160,41 @@ The website will be built with the MERN stack with additional ecommerce function
 
 ## Wireframes
 ### Mobile Wireframes
+
+![](/Docs/wireframes/Mobile_Home.png)
+![](/Docs/wireframes/Mobile_contact.png)
+![](/Docs/wireframes/Mobile_individual.png)
+![](/Docs/wireframes/Mobile_Products.png)
+
+
 ### Desktop Wireframes
+
+![](/Docs/wireframes/Desktop_Home.png)
+![](/Docs/wireframes/Desktop_Login.png)
+![](/Docs/wireframes/Desktop_AboutUs.png)
+![](/Docs/wireframes/Desktop_ContactUs.png)
+![](/Docs/wireframes/Desktop_ShoptheLook.png)
+![](/Docs/wireframes/Desktop_Products.png)
+![](/Docs/wireframes/Desktop_individual_product.png)
+![](/Docs/wireframes/Desktop_Cart.png)
+![](/Docs/wireframes/Desktop_AccountSettings.png)
+![](/Docs/wireframes/Desktop_Shipping.png)
+
+
+### Tablet Wireframes
+![](/Docs/wireframes/Tablet_Home.png)
+![](/Docs/wireframes/Tablet_Login.png)
+![](/Docs/wireframes/Tablet_Cart.png)
+![](/Docs/wireframes/Tablet_Product_Range.png)
+![](/Docs/wireframes/Tablet_individual.png)
+
 ## Project Management
 We followed the Agile methodology of working to deliver the maximum work in the time allowed. We broke the requirements into smaller tasks and prioritised them based on their importance, and each team member was assigned with a list of tasks and a timeframe. We used Trello for this purpose and used Discord for the online communications. We also created a shared folder on Google Drive to allow for quick amalgamation of documents from the client. The following are screenshots of our Trello board showing how our tasks have been changed and updated during our work on this project.
 
 ### Trello 
 
-![](/Trello/2020-11-24.png)
-![](/Trello/2020-11-30.png)
-![](/Trello/2020-12-01.png)
+![](/Docs/2020-11-24.png)
+![](/Docs/2020-11-30.png)
+![](/Docs/2020-12-01.png)
+
+## Presentation
