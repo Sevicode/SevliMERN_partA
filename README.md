@@ -115,6 +115,7 @@ The website will be built with the MERN stack with additional ecommerce function
 **API's:**
 - Google Maps API
 </details>
+
 ## Sitemap
 
 ![](/Docs/sitemap.jpg)
@@ -197,6 +198,7 @@ Below are some of the types of users the site will be designed to attract.
 
 ## Wireframes
 ### Mobile Wireframes
+
 <details>
 
 ![](/Docs/wireframes/Mobile_Home.png)
@@ -205,8 +207,11 @@ Below are some of the types of users the site will be designed to attract.
 ![](/Docs/wireframes/Mobile_Products.png)
 
 </details>
+
 ### Desktop Wireframes
+
 <details>
+
 ![](/Docs/wireframes/Desktop_Home.png)
 ![](/Docs/wireframes/Desktop_Login.png)
 ![](/Docs/wireframes/Desktop_AboutUs.png)
@@ -217,25 +222,32 @@ Below are some of the types of users the site will be designed to attract.
 ![](/Docs/wireframes/Desktop_Cart.png)
 ![](/Docs/wireframes/Desktop_AccountSettings.png)
 ![](/Docs/wireframes/Desktop_Shipping.png)
+
 </details>
 
 ### Tablet Wireframes
+
 <details>
+
 ![](/Docs/wireframes/Tablet_Home.png)
 ![](/Docs/wireframes/Tablet_Login.png)
 ![](/Docs/wireframes/Tablet_Cart.png)
 ![](/Docs/wireframes/Tablet_Product_Range.png)
 ![](/Docs/wireframes/Tablet_individual.png)
+
 </details>
 
 ## Project Management
 We followed the Agile methodology of working to deliver the maximum work in the time allowed. We broke the requirements into smaller tasks and prioritised them based on their importance, and each team member was assigned with a list of tasks and a timeframe. We used Trello for this purpose and used Discord for the online communications. We also created a shared folder on Google Drive to allow for quick amalgamation of documents from the client. The following are screenshots of our Trello board showing how our tasks have been changed and updated during our work on this project.
 
 ### Trello 
+
 <details>
+
 ![](/Docs/2020-11-24.png)
 ![](/Docs/2020-11-30.png)
 ![](/Docs/2020-12-01.png)
+
 </details>
 
 ### Presentation
