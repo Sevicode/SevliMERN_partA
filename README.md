@@ -194,6 +194,7 @@ Below are some of the types of users the site will be designed to attract.
 | Mary, 43, Gold Coast, retail manager | Experienced with long-haul rides around the country in all conditions. Surfing, hiking. | Outdoorsy, fitness, travel fan | Has just moved to the Gold Coast, is looking for more casual gear to wear while riding around town. Saw an ad in the local facebook riders group. | Accurate descriptions of merchandise, clear sizing charts, ability to return gear if it doesn’t fit right. | Durability of garments, fair price, attention to detail. |
 
 
+
 ## Wireframes
 ### Mobile Wireframes
 <details>
@@ -235,3 +236,8 @@ We followed the Agile methodology of working to deliver the maximum work in the 
 ![](/Docs/2020-11-24.png)
 ![](/Docs/2020-11-30.png)
 ![](/Docs/2020-12-01.png)
+</details>
+
+### Presentation
+
+Please find a pdf of presentation slides in docs folder.
