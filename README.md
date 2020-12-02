@@ -50,7 +50,6 @@ Our team have tried their best to integrate the client's requested features in t
 
 * Login/out and Signing up : a customer needs to sign in and if not previously signed up, they will have to sign up to be able to make a purchase or review a product.
 * Admin panel : the client/seller has the admin role and is fully authorized to make changes in the listings. 
-* Search functionality: users can search for a specific product.
 * Product Rating : customers can leave reviews for the products they have purchased and rate them. A star rating system is designed so the customers can rate the purchased pproducts between 1-5 star. 
 * User Authentication : Users need to be signed in either as a customer or admin/seller. This will be checked with authentication functionality already added to the application, including Front and Back-end use authentication and frontend profile. 
 * Shopping cart: customers can add products to their shopping cart. 
@@ -58,7 +57,7 @@ Our team have tried their best to integrate the client's requested features in t
 
 ## Target Audience
 
-The target audience is female motorcycle riders between 23 and 39 years of age. The client also wants to predominantly target Australian riders, especially as she is in the initial phases of establishing and growing her business. The potential customers will be “urban dwellers who enjoy adventuring”, as specified by the client.
+The target audience is female motorcycle riders between approx. 23 and 39 years of age. The client also wants to predominantly target Australian riders, especially as she is in the initial phases of establishing and growing her business. The potential customers will be “urban dwellers who enjoy adventuring”, as specified by the client.
 
 The “cafe racer” bike (pictured above) will be the typical bike style for the apparel - the client does not want to reflect sports or off road bikes in her branding - she states “She Rydes will have a subtle city meets sea vision, being bred on the Gold Coast and with a lot of coastal Australian riders, the brand will deter away from the ‘rough bikie in the dessert’ image and more towards a relaxed surf lifestyle. There are enough skulls, tassels & vests around. It’s time to associate an emerging market with sophistication and practicality.” This sophistication and practicality is to be reflected in the website’s design and the apparel the client is designing and selling.
 
@@ -75,7 +74,6 @@ The website will be built with the MERN stack with additional ecommerce function
 - Figma
 - Balsamiq
 - Draw.io
-
 
 **Frontend:**
 
@@ -142,6 +140,8 @@ The website will be built with the MERN stack with additional ecommerce function
 ![](/Docs/AAD.png)
 ## User Stories
 
+### User MVP features: 
+
 - As a user, I can easily navigate all pages of the website on my phone, tablet or PC
 - As a user, I’m impressed by the sleek look of the website and it intrigues me about the brand it represents
 - As a user I can easily browse through the She Rydes social media which is visible from the website
@@ -153,15 +153,47 @@ The website will be built with the MERN stack with additional ecommerce function
 - As a user, I can login
 - As a user, I can add items to my cart
 - As a user, I can confidently and securely purchase apparel with minimum fuss + clicks
-- As a user, I can subscribe at checkout to receive updates about promotions and discounts
 - As a user, I can see shipping rates that are calculated at checkout
-- As a user, I can review a product
-  
 
+### User Additional features:
+- As a user, I can review a product and leave a star rating
+- As a user, I can login with google or facebook
+- As a user, I can get discounted products when I enter a promo code
+- As a user, I can subscribe at checkout or in the footer to receive updates about promotions and discounts
+
+### Administrator stories:
+
+### Admin MVP features:
 - As an administrator I can login
 - As an administrator I can edit products, delete products, add promotions etc
-- As an administrator I can change photos for products and on sections of the site
+- As an administrator I can change photos for products
+
+### Admin Additional features:
 - As an administrator, I can see the google analytics of my website
+- As an administrator I can change photos and colours on the website
+- As an administrator, I can view and edit my inventory/stock levels
+- As an administrator, I can write newsletters to customers with events, news and promo codes for discounts
+- As an administrator I can modify the SEO for my website
+- As an administrator I have a custom email with the domain of the website
+
+
+### User Personas
+
+Below are some of the types of users the site will be designed to attract.
+
+| Name, Age, Location, Occupation |              Hobbies             |                 Persona                 |                                       Why use She Rydes? How’d they find it?                                      |       What are they looking for in a website?       |       Values      |
+|:-------------------------------:|:--------------------------------:|:---------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|:-----------------:|
+| Samantha, 22, Byron Bay, nurse  | Crafting jewelry, film, singing. | Creative, hardworking, community-minded | Started riding 4 years ago and needs to upgrade her gear. Was referred by a friend who recently purchased gloves. | Accurate and detailed photos, mobile responsiveness | Style, durability |
+
+|  Name, Age, Location, Occupation  |          Hobbies          |            Persona            |                   Why use She Rydes? How’d they find it?                  | What are they looking for in a website? |                Values                |
+|:---------------------------------:|:-------------------------:|:-----------------------------:|:-------------------------------------------------------------------------:|:---------------------------------------:|:------------------------------------:|
+| Alex, 26, Brisbane, Web developer | Gaming, Drawing, Swimming | Modern, inquisitive, generous | Looking to buy a gift for his partner. Girlfriend saw an ad on instagram. | Speed, ease of checkout                 | Efficiency, clarity, stylish attire. |
+
+|    Name, Age, Location, Occupation   |                                         Hobbies                                         |             Persona            |                                                       Why use She Rydes? How’d they find it?                                                      |                                   What are they looking for in a website?                                  |                          Values                          |
+|:------------------------------------:|:---------------------------------------------------------------------------------------:|:------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|
+| Mary, 43, Gold Coast, retail manager | Experienced with long-haul rides around the country in all conditions. Surfing, hiking. | Outdoorsy, fitness, travel fan | Has just moved to the Gold Coast, is looking for more casual gear to wear while riding around town. Saw an ad in the local facebook riders group. | Accurate descriptions of merchandise, clear sizing charts, ability to return gear if it doesn’t fit right. | Durability of garments, fair price, attention to detail. |
+
+
 
 ## Wireframes
 ### Mobile Wireframes
@@ -204,7 +236,8 @@ We followed the Agile methodology of working to deliver the maximum work in the 
 ![](/Docs/2020-11-24.png)
 ![](/Docs/2020-11-30.png)
 ![](/Docs/2020-12-01.png)
-![](/Docs/2020-12-01.png)
 </details>
-## Presentation
-Please find the presentation slides in "Docs" folder.
+
+### Presentation
+
+Please find a pdf of presentation slides in docs folder.
