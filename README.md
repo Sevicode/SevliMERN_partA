@@ -166,6 +166,7 @@ The website will be built with the MERN stack with additional ecommerce function
 
 ## Wireframes
 ### Mobile Wireframes
+
 <details>
 
 ![](/Docs/wireframes/Mobile_Home.png)
@@ -174,8 +175,11 @@ The website will be built with the MERN stack with additional ecommerce function
 ![](/Docs/wireframes/Mobile_Products.png)
 
 </details>
+
 ### Desktop Wireframes
+
 <details>
+
 ![](/Docs/wireframes/Desktop_Home.png)
 ![](/Docs/wireframes/Desktop_Login.png)
 ![](/Docs/wireframes/Desktop_AboutUs.png)
@@ -186,15 +190,19 @@ The website will be built with the MERN stack with additional ecommerce function
 ![](/Docs/wireframes/Desktop_Cart.png)
 ![](/Docs/wireframes/Desktop_AccountSettings.png)
 ![](/Docs/wireframes/Desktop_Shipping.png)
+
 </details>
 
 ### Tablet Wireframes
+
 <details>
+
 ![](/Docs/wireframes/Tablet_Home.png)
 ![](/Docs/wireframes/Tablet_Login.png)
 ![](/Docs/wireframes/Tablet_Cart.png)
 ![](/Docs/wireframes/Tablet_Product_Range.png)
 ![](/Docs/wireframes/Tablet_individual.png)
+
 </details>
 
 ## Project Management
@@ -207,5 +215,6 @@ We followed the Agile methodology of working to deliver the maximum work in the 
 ![](/Docs/2020-12-01.png)
 ![](/Docs/2020-12-01.png)
 </details>
+
 ## Presentation
 Please find the presentation slides in "Docs" folder.
