@@ -117,6 +117,7 @@ The website will be built with the MERN stack with additional ecommerce function
 **API's:**
 - Google Maps API
 </details>
+
 ## Sitemap
 
 ![](/Docs/sitemap.jpg)
