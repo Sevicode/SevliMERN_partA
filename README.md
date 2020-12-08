@@ -9,7 +9,11 @@
 ### Link to Repositories:
 Documentation: https://github.com/Sevicode/SevliMERN_partA/tree/master
 
+Documentation trello: https://trello.com/b/3EnvVQCG/sevlimern-project
+
 Project:
+
+Project trello: https://trello.com/b/6XIHjcSJ/sevlimern-partb
 
 ### Table of Content
 [Project Description](#Project-Description)
